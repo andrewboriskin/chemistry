@@ -1,2 +1,2 @@
 # chemistry
-# one of my first profects
+# one of my first projects
